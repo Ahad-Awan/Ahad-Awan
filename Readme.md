@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Muhammad Ahad <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="href="https://github.com/Ahad-Awan"></h1>
+    <h1> Hi there, I'm Muhammad Ahad <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="https://github.com/Ahad-Awan">Ahad-Awan</a></h1>
   </div>	    
 <p align="center">
 <a 
@@ -81,3 +81,45 @@ href="https://github.com/Ahad-Awan"><img src="https://readme-typing-svg.herokuap
 </table>
 </p>
 </br>
+ 
+<!-- Animated GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahad-Awan&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-Awan&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+<br/>
+
+<!-- Streaks -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ahad-Awan&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahad-Awan&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahad-Awan&theme=tokyo-night&hide_border=true" />
+</div>
+
+<br/>
+
+<!-- GitHub Snake -->
+<div align="center">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Ahad-Awan/Ahad-Awan/output/snake.svg" />
+</div>
+
+<br/>
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahad-Awan&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</div>
+
