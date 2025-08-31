@@ -1,10 +1,11 @@
 <body>
 <div align="center">
-  <!-- Heading with Wave -->
-  <h1 style="font-size: 3rem; font-weight: bold; border-bottom: none; margin-bottom: 0;">
-  Hi there, I'm <span style="color:#008080;">Muhammad Ahad</span> 
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="45" height="45" />
-</h1>
+  <h2>
+    Hi there, I'm <span style="color:#008080;">Muhammad Ahad</span> 
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="45" height="45" />
+  </h2>
+</div>
+
 
 
   <!-- Typing Animation -->
