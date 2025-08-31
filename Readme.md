@@ -39,6 +39,7 @@
   </p>
 </div>
 
+---
 
 
 <div align="center">
@@ -55,9 +56,11 @@
   <a href="https://ahad-portfolio-pi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 </div>
 
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
