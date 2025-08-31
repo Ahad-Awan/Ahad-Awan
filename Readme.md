@@ -1,22 +1,24 @@
 <body>
 <div align="center">
-  <h2>
-    Hi there, I'm <span style="color:#008080;">Muhammad Ahad</span> 
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="45" height="45" />
-  </h2>
-</div>
 
-
+  <!-- Custom Heading -->
+  <p>
+    <font size="6">
+      Hi there, I'm <font color="#008080">Muhammad Ahad</font> 
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="55" height="55" />
+    </font>
+  </p>
 
   <!-- Typing Animation -->
-<a href="https://github.com/Ahad-Awan">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFC857&center=true&vCenter=true&width=650&lines=Front+End+Developer;React+%7C+Next.js+Developer;Building+Beautiful+UIs;Always+Learning+New+Things" />
-</a>
+  <a href="https://github.com/Ahad-Awan">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFC857&center=true&vCenter=true&width=650&lines=Front+End+Developer;React+%7C+Next.js+Developer;Building+Beautiful+UIs;Always+Learning+New+Things" />
+  </a>
 
-
+  <!-- Decorative Line -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 </div>
+
 
 
 
