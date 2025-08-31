@@ -1,13 +1,8 @@
-<body>
 <div align="center">
+  <h1>Hi there, I'm <span style="color: #008080;">Muhammad Ahad</span> 👋</h1>
+</div>
 
-  <!-- Custom Heading -->
-  <p>
-    <font size="6">
-      Hi there, I'm <font color="#008080">Muhammad Ahad</font> 
-      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="55" height="55" />
-    </font>
-  </p>
+<div align="center">
 
   <!-- Typing Animation -->
   <a href="https://github.com/Ahad-Awan">
