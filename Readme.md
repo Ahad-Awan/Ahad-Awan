@@ -14,36 +14,31 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFC857&center=true&vCenter=true&width=650&lines=Front+End+Developer;React+%7C+Next.js+Developer;Building+Beautiful+UIs;Always+Learning+New+Things" />
   </a>
 </p>
-
-
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
 </div>
-
-
-
-<div align="center">
-  <h3>🚀 About Me</h3>
-  <p>
+<div align="left">
+  <h2>🚀 About Me</h2>
+  <p style="font-size:18px;">
     <em>Passionate Front-End Developer crafting digital experiences that matter</em>
   </p>
   
-  <p>
+  <p style="font-size:18px;">
     🌟 <strong>Transforming ideas into beautiful, interactive web experiences</strong><br>
     💻 <strong>Crafting pixel-perfect UIs with modern JavaScript frameworks</strong><br>
     🎨 <strong>Creating intuitive user interfaces and seamless user experiences</strong>
   </p>
 </div>
 
+---
 
-<div align="center">
-  <h3>🎯 Goals & Vision</h3>
-  <p>
+<div align="left">
+  <h2>🎯 Goals & Vision</h2>
+  <p style="font-size:18px;">
     👯 <strong>Collaborating</strong> with innovative developers and content creators<br>
     🥅 <strong>2025-26 Goals:</strong> Contribute to Open Source and build impactful solutions<br>
     💎 <strong>Let's connect</strong> if you're passionate about technology and innovation!
   </p>
 </div>
+
 
 
 <div align="center">
@@ -62,6 +57,7 @@
   </a>
 </div>
 
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
