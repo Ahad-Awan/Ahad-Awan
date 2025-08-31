@@ -136,35 +136,22 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
       </td>
     </tr>
-    <!-- <tr>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=redux" width="45"/><br>Redux
-      </td> 
-    </tr> -->
   </table>
-
 </div>
 
-
-
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahad-Awan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-Awan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" height="165" />
+<br>
+  <h1>📊 GitHub Stats</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahad-Awan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFC857&icon_color=FFC857&text_color=FFFFFF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-Awan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFC857&text_color=FFFFFF" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ahad-Awan&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=6366F1&dates=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ahad-Awan&theme=radical&hide_border=true&background=0D1117&stroke=FFC857&ring=FFC857&fire=FFC857&currStreakNum=FFFFFF&currStreakLabel=FFC857&sideNums=FFFFFF&sideLabels=FFC857&dates=FFFFFF" />
 </div>
 
 
