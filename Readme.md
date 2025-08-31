@@ -9,6 +9,7 @@
 
 
 <!-- Typing Animation -->
+
 <p align="center">
   <a href="https://github.com/Ahad-Awan">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFC857&center=true&vCenter=true&width=650&lines=Front+End+Developer;React+%7C+Next.js+Developer;Building+Beautiful+UIs;Always+Learning+New+Things" />
@@ -28,7 +29,6 @@
   </p>
 </div>
 
----
 
 <div align="left">
   <h2>🎯 Goals & Vision</h2>
@@ -39,7 +39,7 @@
   </p>
 </div>
 
----
+
 
 
 <div align="center">
