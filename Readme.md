@@ -155,26 +155,26 @@
 </div>
 
 
-
+<br>
 <div align="center">
-  <h3>📈 Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahad-Awan&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F1" />
+  <h1>📈 Activity Graph</h1>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahad-Awan&theme=radical&hide_border=true&bg_color=0D1117&color=FFC857&line=FFC857&point=FFFFFF&area=true&area_color=FFC857" />
 </div>
 
 
-
+<br>
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
+  <h1>🐍 Contribution Snake</h1>
   <img alt="snake animation" src="https://raw.githubusercontent.com/Ahad-Awan/Ahad-Awan/output/snake.svg" />
 </div>
 
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahad-Awan&style=for-the-badge&color=6366F1" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ahad-Awan&style=for-the-badge&color=FFC857" alt="Profile views" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Thanks%20for%20visiting%20my%20profile!%20%F0%9F%98%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FFC857&center=true&vCenter=true&width=435&lines=Thanks%20for%20visiting%20my%20profile!%20%F0%9F%98%8A" alt="Typing SVG" />
 </div>
 
