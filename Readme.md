@@ -61,7 +61,6 @@
 
 </div>
 <br>
-
 <div align="center">
 
   <h1> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="32px" height="32px" /> My Tech Stack</h1>
@@ -69,49 +68,90 @@
   <table>
     <tr>
       <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS
-      </td>
-      <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript
       </td>
       <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript
       </td>
-    </tr>
-    <tr>
       <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=react" width="45"/><br>React
       </td>
       <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js
       </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind CSS
+      </td>
+      <td align="center" width="150">
+        <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45"/><br>shadcn/ui
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=mui" width="45"/><br>MUI
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
+      </td>
+    </tr>
       <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js
       </td>
       <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express
-      </td>
-    </tr>
-    <tr>
       <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB
       </td>
       <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL
+        <img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL
+      </td>
+      </td>
+    <tr>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=vercel" width="45"/><br>Vercel
       </td>
       <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>Firebase
+        <img src="https://skillicons.dev/icons?i=netlify" width="45"/><br>Netlify
       </td>
       <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind
+        <img src="https://skillicons.dev/icons?i=postman" width="45"/><br>Postman
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
       </td>
     </tr>
+    <!-- <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=redux" width="45"/><br>Redux
+      </td> 
+    </tr> -->
   </table>
 
 </div>
+
+
 
 
 
